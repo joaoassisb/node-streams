@@ -4,4 +4,4 @@ const fs = require("fs");
 
 const writable = fs.createWriteStream("output.txt");
 
-writable.write("Hello wordl");
+writable.write("Hello world !");
